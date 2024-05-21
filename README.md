@@ -1,2 +1,1 @@
-# HomeSite
-HomePage WebSite 
+This repo is for the homesite ZATILOCs
